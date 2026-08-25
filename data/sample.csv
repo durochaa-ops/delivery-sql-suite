@@ -1,0 +1,6 @@
+issue_id,team,status,cycle_time_days
+101,Payments,Done,4
+102,Payments,Done,11
+103,Search,In Progress,
+104,Search,Done,7
+105,Checkout,Done,2
