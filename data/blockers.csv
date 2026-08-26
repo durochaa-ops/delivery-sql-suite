@@ -1,0 +1,144 @@
+blocker_id,issue_id,blocked_at,unblocked_at,reason
+1,1003,2025-09-05 02:46:10,2025-09-15 16:04:04,Waiting on legal sign-off
+2,1015,2025-09-01 21:08:02,2025-09-04 03:24:38,Waiting on product decision
+3,1016,2025-09-05 10:24:06,,Environment unavailable
+4,1018,2025-09-09 17:21:10,,Environment unavailable
+5,1019,2025-09-03 18:25:45,2025-09-15 10:19:19,Dependency not released
+6,1028,2025-09-08 10:58:01,2025-09-10 22:26:38,Waiting on product decision
+7,1035,2025-09-19 16:01:55,2025-09-29 19:53:06,Waiting on product decision
+8,1036,2025-09-22 01:58:35,2025-09-29 00:33:14,Waiting on third-party API
+9,1037,2025-09-24 00:43:30,2025-09-25 18:43:40,Waiting on legal sign-off
+10,1042,2025-09-19 01:56:18,,Environment unavailable
+11,1049,2025-09-15 01:05:04,2025-09-25 08:25:10,Dependency not released
+12,1051,2025-09-22 07:28:14,2025-09-24 19:04:06,Waiting on product decision
+13,1052,2025-09-15 09:01:21,2025-09-19 23:52:18,Dependency not released
+14,1059,2025-09-23 20:53:10,,Awaiting security review
+15,1061,2025-09-23 17:42:25,2025-09-26 03:16:03,Environment unavailable
+16,1073,2025-10-06 21:03:33,2025-10-09 17:35:38,Environment unavailable
+17,1079,2025-10-06 01:58:42,2025-10-16 12:04:25,Waiting on legal sign-off
+18,1080,2025-10-02 07:10:55,2025-10-06 17:38:55,Environment unavailable
+19,1090,2025-10-06 18:08:23,2025-10-20 20:42:52,Waiting on third-party API
+20,1098,2025-10-03 09:52:51,2025-10-13 19:15:51,Awaiting security review
+21,1101,2025-10-07 11:58:32,2025-10-17 07:23:28,Waiting on third-party API
+22,1109,2025-10-15 21:50:01,,Waiting on legal sign-off
+23,1119,2025-10-20 13:31:44,2025-10-28 16:59:02,Waiting on legal sign-off
+24,1122,2025-10-20 05:09:37,2025-10-28 18:37:46,Waiting on legal sign-off
+25,1129,2025-10-13 05:20:48,,Waiting on third-party API
+26,1132,2025-10-17 20:46:01,2025-10-20 12:48:00,Awaiting security review
+27,1137,2025-10-20 04:28:56,2025-10-29 15:28:30,Environment unavailable
+28,1142,2025-10-20 15:31:54,2025-10-28 12:27:18,Waiting on legal sign-off
+29,1153,2025-10-29 07:43:19,,Environment unavailable
+30,1166,2025-11-03 06:35:08,,Waiting on legal sign-off
+31,1167,2025-11-04 20:15:24,,Waiting on legal sign-off
+32,1168,2025-10-30 21:49:51,2025-10-31 13:02:59,Environment unavailable
+33,1179,2025-11-05 12:04:35,2025-11-14 14:43:43,Dependency not released
+34,1181,2025-10-27 22:45:17,2025-10-28 15:38:44,Dependency not released
+35,1185,2025-11-13 00:44:55,2025-11-24 04:26:30,Environment unavailable
+36,1187,2025-11-11 13:28:20,2025-11-19 07:03:25,Awaiting security review
+37,1192,2025-11-17 03:37:39,2025-11-17 18:41:42,Awaiting security review
+38,1208,2025-11-14 15:50:11,2025-11-24 18:53:34,Environment unavailable
+39,1215,2025-11-28 16:40:22,2025-12-03 01:51:39,Waiting on product decision
+40,1216,2025-11-24 13:31:17,2025-12-03 21:32:56,Dependency not released
+41,1217,2025-11-26 02:51:43,2025-12-08 00:48:04,Awaiting security review
+42,1218,2025-11-27 16:30:49,2025-12-03 23:31:56,Dependency not released
+43,1219,2025-11-24 08:43:37,2025-12-01 09:06:49,Dependency not released
+44,1234,2025-11-25 22:38:41,,Waiting on legal sign-off
+45,1240,2025-11-25 10:39:20,2025-12-04 08:54:42,Environment unavailable
+46,1245,2025-11-27 17:40:25,2025-12-01 10:26:18,Waiting on third-party API
+47,1251,2025-12-11 12:06:54,2025-12-22 22:09:59,Awaiting security review
+48,1261,2025-12-15 22:05:14,2025-12-17 07:36:23,Awaiting security review
+49,1262,2025-12-08 23:57:48,2025-12-17 08:48:16,Awaiting security review
+50,1264,2025-12-15 03:21:17,2025-12-18 02:27:29,Dependency not released
+51,1268,2025-12-15 23:12:00,2025-12-19 17:03:41,Waiting on product decision
+52,1274,2025-12-17 06:53:44,,Dependency not released
+53,1278,2025-12-29 08:48:46,2026-01-08 01:23:45,Awaiting security review
+54,1282,2025-12-30 23:51:46,2025-12-31 14:03:04,Waiting on product decision
+55,1313,2026-01-07 08:26:16,,Environment unavailable
+56,1317,2026-01-12 07:56:38,,Waiting on product decision
+57,1318,2026-01-09 11:11:09,2026-01-12 06:46:28,Waiting on product decision
+58,1323,2026-01-12 00:15:42,2026-01-14 14:32:21,Dependency not released
+59,1326,2026-01-08 00:23:25,2026-01-12 14:47:04,Awaiting security review
+60,1334,2026-01-09 15:25:23,2026-01-12 17:21:18,Waiting on third-party API
+61,1340,2026-01-12 11:11:27,2026-01-26 14:00:28,Waiting on third-party API
+62,1343,2026-01-12 10:36:10,2026-01-22 17:22:16,Waiting on legal sign-off
+63,1348,2026-01-12 07:55:42,2026-01-22 01:53:11,Waiting on product decision
+64,1352,2026-01-22 02:28:20,2026-01-30 07:46:23,Waiting on product decision
+65,1354,2026-01-23 10:27:40,2026-01-30 05:07:10,Dependency not released
+66,1359,2026-01-21 23:06:37,,Waiting on legal sign-off
+67,1365,2026-01-22 14:30:18,2026-01-29 03:42:37,Waiting on product decision
+68,1367,2026-01-19 17:22:18,2026-01-22 20:16:45,Waiting on legal sign-off
+69,1378,2026-01-27 14:56:24,2026-01-30 14:17:04,Environment unavailable
+70,1380,2026-01-21 00:49:43,2026-01-26 18:57:40,Awaiting security review
+71,1383,2026-02-06 00:34:58,2026-02-17 06:06:25,Waiting on product decision
+72,1384,2026-02-03 03:40:37,2026-02-12 02:58:29,Environment unavailable
+73,1389,2026-02-03 11:38:45,2026-02-09 07:53:59,Waiting on legal sign-off
+74,1394,2026-02-06 18:17:03,2026-02-12 21:08:25,Environment unavailable
+75,1410,2026-02-10 09:49:55,,Waiting on legal sign-off
+76,1412,2026-02-06 00:34:33,2026-02-17 23:41:48,Dependency not released
+77,1426,2026-02-23 01:16:13,2026-02-25 17:07:31,Dependency not released
+78,1427,2026-02-23 03:34:22,,Dependency not released
+79,1428,2026-02-23 00:56:36,2026-02-26 18:21:49,Environment unavailable
+80,1437,2026-02-25 16:00:09,2026-03-02 04:16:06,Waiting on product decision
+81,1440,2026-02-17 18:22:28,2026-02-23 14:37:50,Waiting on legal sign-off
+82,1444,2026-02-19 09:21:17,2026-03-02 00:03:26,Awaiting security review
+83,1452,2026-03-02 15:57:22,2026-03-04 20:56:23,Waiting on legal sign-off
+84,1455,2026-03-06 14:37:39,2026-03-18 01:25:29,Dependency not released
+85,1458,2026-03-09 14:53:20,2026-03-20 22:58:13,Dependency not released
+86,1459,2026-03-06 01:01:33,2026-03-09 17:45:18,Dependency not released
+87,1463,2026-03-06 01:53:08,2026-03-09 03:29:35,Waiting on third-party API
+88,1481,2026-03-09 11:41:14,,Waiting on product decision
+89,1485,2026-03-06 20:41:54,2026-03-10 10:46:39,Waiting on legal sign-off
+90,1490,2026-03-20 21:04:56,2026-03-30 17:35:47,Waiting on legal sign-off
+91,1497,2026-03-20 21:50:13,,Dependency not released
+92,1499,2026-03-18 04:21:40,,Waiting on legal sign-off
+93,1501,2026-03-23 21:06:23,2026-04-02 08:17:19,Waiting on product decision
+94,1507,2026-03-23 15:52:35,,Environment unavailable
+95,1511,2026-03-16 03:25:01,2026-03-16 14:36:09,Waiting on product decision
+96,1513,2026-03-23 01:04:03,,Environment unavailable
+97,1516,2026-03-16 18:10:40,2026-03-23 01:25:41,Environment unavailable
+98,1521,2026-03-16 17:01:06,,Environment unavailable
+99,1525,2026-03-23 11:49:05,,Environment unavailable
+100,1529,2026-04-06 01:30:03,2026-04-07 15:35:42,Awaiting security review
+101,1531,2026-04-06 00:43:16,2026-04-08 03:47:15,Dependency not released
+102,1543,2026-04-02 02:17:44,2026-04-13 09:56:36,Dependency not released
+103,1545,2026-04-02 23:50:28,2026-04-03 18:37:38,Awaiting security review
+104,1557,2026-04-16 14:17:17,,Environment unavailable
+105,1563,2026-04-15 11:18:35,2026-04-15 16:42:51,Waiting on legal sign-off
+106,1570,2026-04-17 09:12:53,2026-04-20 10:59:49,Awaiting security review
+107,1571,2026-04-20 15:32:42,2026-04-28 07:27:44,Waiting on third-party API
+108,1573,2026-04-17 03:24:02,2026-04-22 05:53:58,Waiting on third-party API
+109,1580,2026-04-15 22:16:15,2026-04-21 18:15:22,Waiting on legal sign-off
+110,1583,2026-04-14 08:14:04,2026-04-16 19:09:52,Dependency not released
+111,1585,2026-04-16 02:04:49,2026-04-20 05:53:36,Waiting on product decision
+112,1588,2026-04-20 00:22:23,2026-04-20 19:07:51,Dependency not released
+113,1589,2026-04-17 23:10:49,,Waiting on legal sign-off
+114,1593,2026-04-16 06:32:58,2026-04-21 12:18:34,Environment unavailable
+115,1594,2026-04-21 21:31:32,2026-04-22 08:15:07,Waiting on third-party API
+116,1595,2026-04-17 01:04:28,2026-04-27 13:42:06,Waiting on product decision
+117,1601,2026-04-30 20:09:18,2026-05-11 13:17:43,Dependency not released
+118,1602,2026-05-01 11:05:21,2026-05-08 00:34:55,Environment unavailable
+119,1603,2026-05-05 02:59:54,,Environment unavailable
+120,1608,2026-04-24 11:00:34,2026-05-06 05:29:49,Dependency not released
+121,1610,2026-04-28 23:45:57,2026-05-11 11:14:44,Waiting on third-party API
+122,1614,2026-05-01 16:41:44,2026-05-05 23:42:38,Dependency not released
+123,1615,2026-04-27 21:22:42,2026-05-04 09:09:18,Waiting on product decision
+124,1617,2026-04-29 14:38:24,2026-05-11 13:59:39,Environment unavailable
+125,1620,2026-04-30 05:33:42,,Environment unavailable
+126,1621,2026-04-29 12:13:41,2026-05-04 10:02:03,Awaiting security review
+127,1625,2026-05-05 13:56:24,2026-05-07 15:49:06,Environment unavailable
+128,1635,2026-04-29 19:28:24,2026-05-11 20:11:15,Awaiting security review
+129,1639,2026-05-12 23:00:03,,Environment unavailable
+130,1643,2026-05-12 03:23:42,2026-05-19 10:04:10,Waiting on product decision
+131,1644,2026-05-14 03:55:44,,Waiting on legal sign-off
+132,1655,2026-05-12 21:37:12,2026-05-22 09:48:10,Awaiting security review
+133,1661,2026-05-15 00:03:33,2026-05-22 18:11:35,Environment unavailable
+134,1668,2026-05-18 02:37:57,2026-05-26 18:10:49,Waiting on product decision
+135,1671,2026-05-11 01:49:26,2026-05-20 04:33:06,Environment unavailable
+136,1675,2026-05-18 02:11:13,2026-05-19 23:27:27,Waiting on third-party API
+137,1680,2026-05-29 17:08:17,2026-06-08 08:33:43,Environment unavailable
+138,1682,2026-05-27 00:58:08,,Awaiting security review
+139,1692,2026-06-01 11:49:18,2026-06-08 06:18:11,Environment unavailable
+140,1697,2026-05-27 04:29:05,2026-06-02 04:12:02,Waiting on third-party API
+141,1698,2026-06-01 02:57:52,2026-06-04 00:14:25,Awaiting security review
+142,1700,2026-05-26 18:49:55,,Environment unavailable
+143,1701,2026-05-27 12:43:38,,Dependency not released
